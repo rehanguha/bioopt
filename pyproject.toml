@@ -9,7 +9,7 @@ description = "Bio-inspired optimization algorithms for machine learning and sci
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "Rehan Guha", email = "rehanguha@example.com"}
+    {name = "Rehan Guha", email = "rehanguha29@gmail.com"}
 ]
 classifiers = [
     "Development Status :: 3 - Alpha",
